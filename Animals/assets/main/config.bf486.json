@@ -1,0 +1,53 @@
+{
+    "paths": {},
+    "uuids": [
+        "1adk38NflAGatRADAIM0vV",
+        "7aDxSdngxNgLNxTA6T4iMx",
+        "80km9cPg5NK6D00mevdeh3",
+        "8buXAar09HP7a2QVKIy7EL",
+        "abW1gLK+ZLe5Aqf3/D2bKs",
+        "ecpdLyjvZBwrvm+cedCcQy",
+        "fd/u1OLTNDup23n0gQV8DK"
+    ],
+    "scenes": {
+        "db://assets/scene/game.fire": "abW1gLK+ZLe5Aqf3/D2bKs"
+    },
+    "redirect": [
+        "7aDxSdngxNgLNxTA6T4iMx",
+        0,
+        "80km9cPg5NK6D00mevdeh3",
+        0,
+        "8buXAar09HP7a2QVKIy7EL",
+        0,
+        "ecpdLyjvZBwrvm+cedCcQy",
+        1
+    ],
+    "deps": [
+        "resources",
+        "internal"
+    ],
+    "packs": {
+        "0f6a53273": [
+            "1adk38NflAGatRADAIM0vV",
+            "abW1gLK+ZLe5Aqf3/D2bKs"
+        ]
+    },
+    "name": "main",
+    "importBase": "import",
+    "nativeBase": "native",
+    "debug": true,
+    "isZip": false,
+    "encrypted": false,
+    "versions": {
+        "import": [
+            "0f6a53273",
+            "ff3d8",
+            "fd/u1OLTNDup23n0gQV8DK",
+            "a6d42"
+        ],
+        "native": [
+            "fd/u1OLTNDup23n0gQV8DK",
+            "8c043"
+        ]
+    }
+}
